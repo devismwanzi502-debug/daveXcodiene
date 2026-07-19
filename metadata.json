@@ -1,0 +1,6 @@
+{
+  "name": "Uptime Scroll Robot",
+  "description": "A full-stack website uptime monitor that interacts with target pages by scrolling up and down at custom intervals using a client-side bookmarklet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
